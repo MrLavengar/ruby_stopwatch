@@ -1,11 +1,11 @@
-# Simple stoper in ruby.
+# Simple Stopwatch in ruby.
 
 ### Available methods:
-*Stoper.new* - create new instance of stoper  
+*Stopwatch.new* - create new instance of stopwatch  
 
-*start()* - for starting stoper  
+*start()* - start stopwatch  
 
-*stop()* - for stopping stoper  
+*stop()* - stop stopwatch  
 
 *result(n)* - return float number of miliseconds passed by between start and stop, (optional) round to n decimal places. By defeault n is 20  
 
